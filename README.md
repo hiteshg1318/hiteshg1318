@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hitesh Gupta</h1>
-<h3 align="center">A pasBusiness Analytics/Data Analytics/Data Science professional with 4+ years of experience in predictive ML modeling, time series forecasting, fraud detection, pricing, A/B Testing, risk identification, deep learning and dashboarding to extract insights and support data-driven decisions. Hands on experience in building Data flows, warehousing, ETL Pipelines on cloud technologies (Azure,AWS).sionate frontend developer from India</h3>
+<h3 align="center">Business Analytics/Data Analytics/Data Science professional with 4+ years of experience in predictive ML modeling, time series forecasting, fraud detection, pricing, A/B Testing, risk identification, deep learning and dashboarding to extract insights and support data-driven decisions. Hands on experience in building Data flows, warehousing, ETL Pipelines on cloud technologies (Azure,AWS).</h3>
+
+- 🔭 I’m currently working on [Customer Segmentation project for a Retail brand. I am using RFM and Market Basket Analysis to get insight to help the Retail brand make marketing strategies for their customers](https://github.com/hiteshg1318/Customer_Segmentation_Project)
+
+- 🌱 I’m currently learning **How to apply Data skills in Business Domain**
+
+- 👯 I’m looking to collaborate on **Data Science/Data Analytics projetcs**
+
+- 📫 How to reach me **hiteshguptaus@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
