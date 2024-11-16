@@ -9,6 +9,10 @@
 
 - 📫 How to reach me **hiteshguptaus@gmail.com**
 
+- 📄 Know about my experiences [https://hgupta7.wordpress.com/](https://hgupta7.wordpress.com/)
+
+- ⚡ Fun fact **I’m so obsessed with analytics and data science that I once tried to optimize my pizza toppings using a regression model—turns out, extra cheese always correlates with maximum happiness!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hg03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hg03/" height="30" width="40" /></a>
